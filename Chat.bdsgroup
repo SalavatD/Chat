@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <PersonalityInfo>
+    <Option>
+      <Option Name="Personality">Default.Personality</Option>
+      <Option Name="ProjectType"></Option>
+      <Option Name="Version">1.0</Option>
+      <Option Name="GUID">{D20D7AC0-4711-409C-93E9-156DFC3A8009}</Option>
+    </Option>
+  </PersonalityInfo>
+  <Default.Personality>
+    
+    <Projects>
+      <Projects Name="Client_Delphi.exe">Client_Delphi\Client_Delphi.bdsproj</Projects>
+      <Projects Name="Server_Delphi.exe">Server_Delphi\Server_Delphi.bdsproj</Projects>
+      <Projects Name="Targets">Client_Delphi.exe Server_Delphi.exe</Projects>
+    </Projects>
+    <Dependencies/>
+  </Default.Personality>
+</BorlandProject>
